@@ -37,7 +37,7 @@ html, body {
 }
 
 body {
-  background-color: ##A78B71;
+  background-color: #A78B71;
   font-family: "Montserrat", sans-serif;
   font-weight: normal;
   overflow-x: hidden;
@@ -49,7 +49,7 @@ body {
 }
 
 .navbar {
-  background-color: rgba( 255, 255, 2555, .0);
+  background-color: rgba( 255, 255, 255, .0);
   border-bottom: 0 none;
   font-size: 12px;
   transition: .25s all linear;
@@ -106,7 +106,7 @@ body {
 }
 
 #intro {
-  background-color: #000000;
+  background-color: #A78B71;
   color: #9C4A1A;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
