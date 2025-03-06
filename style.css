@@ -175,7 +175,7 @@ body {
 
 #lr1 {
   background-color: #E4C08A;
-  color: #E88846;
+  color: #BC5F41;
   padding-top: 90px;
 }
 .title-row {
@@ -236,6 +236,50 @@ body {
   padding-bottom: 50px;
 }
 #lr3 a {
+  color: #FFA500;
+}
+
+#lr4 {
+  background-color: #e9dfcb;
+  color: #9C4A1A;
+  padding-top: 90px;
+}
+.title-row {
+  font-size: 45px;
+  padding-bottom: 10px;
+}
+.line-row {
+	font-size: 23px;
+	font-weight: 600;
+	padding-bottom: 24px;
+}
+.subtitle-row {
+  font-size: 16px;
+  padding-bottom: 50px;
+}
+#lr4 a {
+  color: #FFA500;
+}
+
+#lr5 {
+  background-color: #e9dfcb;
+  color: #9C4A1A;
+  padding-top: 90px;
+}
+.title-row {
+  font-size: 45px;
+  padding-bottom: 10px;
+}
+.line-row {
+	font-size: 23px;
+	font-weight: 600;
+	padding-bottom: 24px;
+}
+.subtitle-row {
+  font-size: 16px;
+  padding-bottom: 50px;
+}
+#lr5 a {
   color: #FFA500;
 }
 
