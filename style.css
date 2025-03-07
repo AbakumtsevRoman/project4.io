@@ -38,7 +38,7 @@ html, body {
 
 body {
   background-color: #e9dfcb;
-  font-family: Segoe Print;
+  font-family: Segoe Print, Parabola, Caveat;
   font-weight: normal;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased !important;
@@ -264,7 +264,6 @@ body {
 #lr5 {
   background-color: #f7e8e3;
   color: #6E4E39;
-  font-family: Caveat;
   padding-top: 90px;
 }
 .title-row {
