@@ -1,5 +1,5 @@
 .font-regular {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Source Sans Pro", Segoe Print;
   font-weight: 300;
   font-size: 20px;
 }
@@ -38,7 +38,7 @@ html, body {
 
 body {
   background-color: #A78B71;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", Segoe Print;
   font-weight: normal;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased !important;
