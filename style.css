@@ -106,7 +106,7 @@ body {
 }
 
 #intro {
-  background-color: #A78B71;
+  background-color: #e9dfcb;
   color: #9C4A1A;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -175,7 +175,7 @@ body {
 
 #lr1 {
   background-color: #E4C08A;
-  color: #BC5F41;
+  color: #9C4A1A;
   padding-top: 90px;
 }
 .title-row {
@@ -192,7 +192,7 @@ body {
   padding-bottom: 50px;
 }
 #lr1 a {
-  color: #FFA500;
+  color: #BC5F41;
 }
 
 #lr2 {
@@ -214,12 +214,12 @@ body {
   padding-bottom: 50px;
 }
 #lr2 a {
-  color: #FFA500;
+  color: #BC5F41;
 }
 
 #lr3 {
-  background-color: #BC5F41;
-  color: #4C2818;
+  background-color: #e9dfcb;
+  color: #9C4A1A;
   padding-top: 90px;
 }
 .title-row {
@@ -236,7 +236,7 @@ body {
   padding-bottom: 50px;
 }
 #lr3 a {
-  color: #FFA500;
+  color: #BC5F41;
 }
 
 #lr4 {
@@ -258,7 +258,7 @@ body {
   padding-bottom: 50px;
 }
 #lr4 a {
-  color: #FFA500;
+  color: #BC5F41;
 }
 
 #lr5 {
@@ -280,7 +280,7 @@ body {
   padding-bottom: 50px;
 }
 #lr5 a {
-  color: #FFA500;
+  color: #BC5F41;
 }
 
 #slide-7 {
