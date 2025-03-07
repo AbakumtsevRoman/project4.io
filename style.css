@@ -49,7 +49,7 @@ body {
 }
 
 .navbar {
-  background-color: #E4C08A;
+  background-color: #9C4A1A;
   border-bottom: 0 none;
   font-size: 12px;
   transition: .25s all linear;
@@ -174,8 +174,8 @@ body {
 }
 
 #lr1 {
-  background-color: #E4C08A;
-  color: #9C4A1A;
+  background-color: #9C4A1A;
+  color: #e9dfcb;
   padding-top: 90px;
 }
 .title-row {
