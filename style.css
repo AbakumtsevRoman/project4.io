@@ -37,8 +37,8 @@ html, body {
 }
 
 body {
-  background-color: #A78B71;
-  font-family: Segoe Print, a_AntiqueGr;
+  background-color: #e9dfcb;
+  font-family: Segoe Print;
   font-weight: normal;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased !important;
@@ -56,7 +56,7 @@ body {
 }
 
 .navbar .nav a {
-  color: #BC5F41;
+  color: #e9dfcb;
   font-weight: 400;
   font-size: 16px;
 }
@@ -65,11 +65,11 @@ body {
   background: none;
 }
 .navbar .active a {
-  border-bottom: 2px solid #FF8C00;
+  border-bottom: 2px solid #e9dfcb;
 }
 
 .navbar-scrolled {
-  background-color: rgba( 228, 192, 138, .5);
+  background-color: rgba( 156, 74, 26, .5);
 }
 
 .navbar-toggle i {
