@@ -49,7 +49,7 @@ body {
 }
 
 .navbar {
-  background-color: #4C2818;
+  background-color: #6E4E39;
   border-bottom: 0 none;
   font-size: 12px;
   transition: .25s all linear;
@@ -73,7 +73,7 @@ body {
 }
 
 .navbar-toggle i {
-  color: #E4C08A;
+  color: #6E4E39;
   font-size: 22px;
 }
 
@@ -107,7 +107,7 @@ body {
 
 #intro {
   background-color: #e9dfcb;
-  color: #4C2818;
+  color: #6E4E39;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -174,7 +174,7 @@ body {
 }
 
 #lr1 {
-  background-color: #4C2818;
+  background-color: #6E4E39;
   color: #e9dfcb;
   padding-top: 90px;
 }
@@ -197,7 +197,7 @@ body {
 
 #lr2 {
   background-color: #e9dfcb;
-  color: #4C2818;
+  color: #6E4E39;
   padding-top: 90px;
 }
 .title-row {
@@ -219,7 +219,7 @@ body {
 
 #lr3 {
   background-color: #e9dfcb;
-  color: #4C2818;
+  color: #6E4E39;
   padding-top: 90px;
 }
 .title-row {
@@ -241,7 +241,7 @@ body {
 
 #lr4 {
   background-color: #F6F4F5;
-  color: #4C2818;
+  color: #6E4E39;
   padding-top: 90px;
 }
 .title-row {
@@ -263,7 +263,7 @@ body {
 
 #lr5 {
   background-color: #e9dfcb;
-  color: #4C2818;
+  color: #6E4E39;
   padding-top: 90px;
 }
 .title-row {
