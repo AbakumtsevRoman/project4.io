@@ -130,11 +130,11 @@ body {
 }
 
 #home-row-1 h1 {
-  font-size: 45px;
+  font-size: 40px;
 }
 
 #home-row-1 h4 {
-  font-size: 32px;
+  font-size: 30px;
 }
 
 #home-row-2 {
@@ -179,7 +179,7 @@ body {
   padding-top: 90px;
 }
 .title-row {
-  font-size: 55px;
+  font-size: 50px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -201,7 +201,7 @@ body {
   padding-top: 90px;
 }
 .title-row {
-  font-size: 45px;
+  font-size: 40px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -223,7 +223,7 @@ body {
   padding-top: 90px;
 }
 .title-row {
-  font-size: 45px;
+  font-size: 40px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -245,7 +245,7 @@ body {
   padding-top: 90px;
 }
 .title-row {
-  font-size: 45px;
+  font-size: 40px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -264,10 +264,11 @@ body {
 #lr5 {
   background-color: #f7e8e3;
   color: #6E4E39;
+  font-family: Caveat;
   padding-top: 90px;
 }
 .title-row {
-  font-size: 45px;
+  font-size: 40px;
   padding-bottom: 10px;
 }
 .line-row {
