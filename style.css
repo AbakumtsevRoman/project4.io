@@ -1,22 +1,22 @@
 .font-regular {
-  font-family: "Source Sans Pro", Segoe Print;
+  font-family: Segoe Print, a_AntiqueGr;
   font-weight: 300;
   font-size: 20px;
 }
 
 .font-black {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: Segoe Print, a_AntiqueGr;
   font-weight: 600;
   font-size: 20px;
 }
 
 .font-semibold {
-  font-family: "Montserrat", sans-serif;
+  font-family: Segoe Print, a_AntiqueGr;
   font-weight: 600;
 }
 
 .font-light {
-  font-family: "Montserrat", sans-serif;
+  font-family: Segoe Print, a_AntiqueGr;
   font-weight: 300;
 }
 
@@ -38,7 +38,7 @@ html, body {
 
 body {
   background-color: #A78B71;
-  font-family: Segoe Print;
+  font-family: Segoe Print, a_AntiqueGr;
   font-weight: normal;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased !important;
@@ -56,7 +56,7 @@ body {
 }
 
 .navbar .nav a {
-  color: #9C4A1A;
+  color: #BC5F41;
   font-weight: 400;
   font-size: 16px;
 }
