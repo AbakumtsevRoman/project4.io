@@ -126,6 +126,9 @@ body {
   background-attachment: relative;
   background-position: center center;
 }
+.line-row {
+  font-size: 23px;
+}
 
 #intro h1 {
   padding-top: 10px;
