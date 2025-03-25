@@ -43,6 +43,11 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased !important;
 }
+@media (max-width: 767px) {
+  body {
+    font-family: Segoe Print, Parabola, Caveat;
+  }
+}
 
 .justify-text {
   text-align: justify;
@@ -266,7 +271,7 @@ body {
 #lr5 {
   background-color: #ffffff;
   color: #2F3148;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 .title-row {
   font-size: 40px;
