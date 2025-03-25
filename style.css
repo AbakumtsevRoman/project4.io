@@ -205,7 +205,7 @@ body {
 #lr2 {
   background-color: #ffffff;
   color: #2F3148;
-  padding-top: 70px;
+  padding-top: 50px;
 }
 .title-row {
   font-size: 36px;
@@ -214,7 +214,7 @@ body {
 .line-row {
 	font-size: 23px;
 	font-weight: 600;
-	padding-bottom: 24px;
+	padding-bottom: 10px;
 }
 .subtitle-row {
   font-size: 16px;
@@ -249,7 +249,7 @@ body {
 #lr4 {
   background-color: #ffffff;
   color: #2F3148;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 .title-row {
   font-size: 40px;
