@@ -139,7 +139,7 @@ body {
 }
 
 #home-row-1 h1 {
-  font-size: 35px;
+  font-size: 32px;
 }
 
 #home-row-1 h4 {
@@ -189,7 +189,7 @@ body {
   width: 97%;
 }
 .title-row {
-  font-size: 50px;
+  font-size: 40px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -208,11 +208,11 @@ body {
 #lr2 {
   background-color: #ffffff;
   color: #2F3148;
-  padding-top: 50px;
+  padding-top: 20px;
   width: 98%;
 }
 .title-row {
-  font-size: 36px;
+  font-size: 32px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -235,7 +235,7 @@ body {
   width: 98%;
 }
 .title-row {
-  font-size: 36px;
+  font-size: 32px;
   padding-bottom: 5px;
 }
 .line-row {
@@ -258,7 +258,7 @@ body {
   width: 98%;
 }
 .title-row {
-  font-size: 40px;
+  font-size: 32px;
   padding-bottom: 10px;
 }
 .line-row {
@@ -281,7 +281,7 @@ body {
   width: 98%;
 }
 .title-row {
-  font-size: 40px;
+  font-size: 32px;
   padding-bottom: 10px;
 }
 .line-row {
