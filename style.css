@@ -114,10 +114,10 @@ body {
 #intro {
   background-color: #ffffff;	
   color: #2F3148;
-  -webkit-background-size: 60%;
-  -moz-background-size: 60%;
-  -o-background-size: 60%;
-  background-size: 60%;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -189,17 +189,17 @@ body {
   width: 97%;
 }
 .title-row {
-  font-size: 40px;
+  font-size: 36px;
   padding-bottom: 10px;
 }
 .line-row {
-	font-size: 23px;
+	font-size: 26px;
 	font-weight: 600;
 	padding-bottom: 24px;
 }
 .subtitle-row {
-  font-size: 16px;
-  padding-bottom: 50px;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
 #lr1 a {
   color: #BC5F41;
@@ -209,20 +209,20 @@ body {
   background-color: #ffffff;
   color: #2F3148;
   padding-top: 20px;
-  width: 98%;
+  width: 97%;
 }
 .title-row {
-  font-size: 32px;
+  font-size: 30px;
   padding-bottom: 10px;
 }
 .line-row {
-	font-size: 23px;
+	font-size: 26px;
 	font-weight: 600;
 	padding-bottom: 10px;
 }
 .subtitle-row {
-  font-size: 16px;
-  padding-bottom: 50px;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
 #lr2 a {
   color: #BC5F41;
@@ -232,20 +232,20 @@ body {
   background-color: #ffffff;
   color: #2F3148;
   padding-top: 10px;
-  width: 98%;
+  width: 97%;
 }
 .title-row {
-  font-size: 32px;
+  font-size: 30px;
   padding-bottom: 5px;
 }
 .line-row {
-	font-size: 23px;
+	font-size: 26px;
 	font-weight: 600;
 	padding-bottom: 5px;
 }
 .subtitle-row {
-  font-size: 16px;
-  padding-bottom: 50px;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
 #lr3 a {
   color: #ffff99;
@@ -255,20 +255,20 @@ body {
   background-color: #ffffff;
   color: #2F3148;
   padding-top: 10px;
-  width: 98%;
+  width: 97%;
 }
 .title-row {
-  font-size: 32px;
+  font-size: 30px;
   padding-bottom: 10px;
 }
 .line-row {
-	font-size: 23px;
+	font-size: 26px;
 	font-weight: 600;
 	padding-bottom: 24px;
 }
 .subtitle-row {
-  font-size: 16px;
-  padding-bottom: 50px;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
 #lr4 a {
   color: #ffff99;
@@ -278,20 +278,20 @@ body {
   background-color: #ffffff;
   color: #2F3148;
   padding-top: 10px;
-  width: 98%;
+  width: 97%;
 }
 .title-row {
   font-size: 32px;
   padding-bottom: 10px;
 }
 .line-row {
-	font-size: 23px;
+	font-size: 26px;
 	font-weight: 600;
 	padding-bottom: 24px;
 }
 .subtitle-row {
-  font-size: 16px;
-  padding-bottom: 50px;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
 #lr5 a {
   color: #ffff99;
