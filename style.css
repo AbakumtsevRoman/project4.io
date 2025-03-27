@@ -167,17 +167,14 @@ body {
   padding-top: 0;
 }
 
-@media (max-width: 767px) {
-  #home-row-1, #home-row-2 {
-    padding-top: 16px;
-  }
+@media (max-width: 760px) {
   #home-row-1 h1 {
-    font-size: 35px;
+    font-size: 32px;
   }
   #home-row-1 h4 {
     font-size: 21px;
   }
-  #home-row-2 {
+  home-row-2 {
     font-size: 16px;
   }
 }
@@ -205,6 +202,18 @@ body {
   color: #BC5F41;
 }
 
+@media (max-width: 760px) {
+  .title-row {
+    font-size: 24px;
+  }
+  .line-row {
+    font-size: 18px;
+  }
+  .subtitle-row {
+    font-size: 12px;
+  }
+}
+
 #lr2 {
   background-color: #ffffff;
   color: #2F3148;
@@ -228,6 +237,18 @@ body {
   color: #BC5F41;
 }
 
+@media (max-width: 760px) {
+  .title-row {
+    font-size: 24px;
+  }
+  .line-row {
+    font-size: 18px;
+  }
+  .subtitle-row {
+    font-size: 12px;
+  }
+}
+
 #lr3 {
   background-color: #ffffff;
   color: #2F3148;
@@ -239,7 +260,7 @@ body {
   padding-bottom: 5px;
 }
 .line-row {
-	font-size: 26px;
+	font-size: 28px;
 	font-weight: 600;
 	padding-bottom: 5px;
 }
@@ -249,6 +270,18 @@ body {
 }
 #lr3 a {
   color: #ffff99;
+}
+
+@media (max-width: 760px) {
+  .title-row {
+    font-size: 24px;
+  }
+  .line-row {
+    font-size: 18px;
+  }
+  .subtitle-row {
+    font-size: 12px;
+  }
 }
 
 #lr4 {
@@ -274,6 +307,18 @@ body {
   color: #ffff99;
 }
 
+@media (max-width: 760px) {
+  .title-row {
+    font-size: 24px;
+  }
+  .line-row {
+    font-size: 18px;
+  }
+  .subtitle-row {
+    font-size: 12px;
+  }
+}
+
 #lr5 {
   background-color: #ffffff;
   color: #2F3148;
@@ -295,6 +340,18 @@ body {
 }
 #lr5 a {
   color: #ffff99;
+}
+
+@media (max-width: 760px) {
+  .title-row {
+    font-size: 24px;
+  }
+  .line-row {
+    font-size: 18px;
+  }
+  .subtitle-row {
+    font-size: 12px;
+  }
 }
 
 #slide-7 {
