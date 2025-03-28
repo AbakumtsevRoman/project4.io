@@ -75,7 +75,7 @@ body {
 }
 
 .navbar-scrolled {
-  background-color: rgba( 47,49,72, .6);
+  background-color: rgba( 47,49,72, .85);
 }
 
 .navbar-toggle i {
@@ -91,7 +91,7 @@ body {
 
 @media (max-width: 767px) {
   .navbar-collapse {
-    background-color: rgba( 47,49,72, .7);
+    background-color: rgba( 47,49,72, .85);
   }
 }
 
