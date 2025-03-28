@@ -57,14 +57,14 @@ body {
   background-color: #2F3148;
   color: #ffffff;
   border-bottom: 0 none;
-  font-size: 11px;
+  font-size: 18px;
   transition: .25s all linear;
 }
 
 .navbar .nav a {
   color: #ffffff;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .navbar .nav a:hover, .navbar .nav a:focus {
