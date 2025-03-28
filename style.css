@@ -239,7 +239,7 @@ body {
   color: #BC5F41;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 550px) {
   #lr2 .title-row {
     font-size: 24px;
   }
@@ -275,7 +275,7 @@ body {
   color: #ffff99;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 550px) {
   #lr3 .title-row {
     font-size: 24px;
   }
@@ -311,7 +311,7 @@ body {
   color: #ffff99;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 550px) {
   #lr4 .title-row {
     font-size: 24px;
   }
@@ -347,7 +347,7 @@ body {
   color: #ffff99;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 550px) {
   #lr5 .title-row {
     font-size: 24px;
   }
