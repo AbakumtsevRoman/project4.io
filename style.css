@@ -310,13 +310,13 @@ body {
 
 @media (max-width: 767px) {
   #lr4 .title-row {
-    font-size: 1.5em;
+    font-size: 1em;
   }
   #lr4 .line-row {
     font-size: 1.7em;
   }
   #lr4 .subtitle-row {
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
 }
 
