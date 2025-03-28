@@ -169,13 +169,13 @@ body {
 
 @media (max-width: 550px) {
   #home-row-1 h1 {
-    font-size: 30px;
+    font-size: 1.7em;
   }
   #home-row-1 h4 {
-    font-size: 24px;
+    font-size: 1.5em;
   }
   home-row-2 {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -205,13 +205,13 @@ body {
 
 @media (max-width: 550px) {
   #lr1 .title-row {
-    font-size: 24px;
+    font-size: 1.7em;
   }
   #lr1 .line-row {
-    font-size: 20px;
+    font-size: 1.5em;
   }
   #lr1 .subtitle-row {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -241,13 +241,13 @@ body {
 
 @media (max-width: 550px) {
   #lr2 .title-row {
-    font-size: 24px;
+    font-size: 1.7em;
   }
   #lr2 .line-row {
-    font-size: 20px;
+    font-size: 1.5em;
   }
   #lr2 .subtitle-row {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -277,13 +277,13 @@ body {
 
 @media (max-width: 550px) {
   #lr3 .title-row {
-    font-size: 24px;
+    font-size: 1.7em;
   }
   #lr3 .line-row {
-    font-size: 20px;
+    font-size: 1.5em;
   }
   #lr3 .subtitle-row {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -313,13 +313,13 @@ body {
 
 @media (max-width: 550px) {
   #lr4 .title-row {
-    font-size: 24px;
+    font-size: 1.7em;
   }
   #lr4 .line-row {
-    font-size: 20px;
+    font-size: 1.5em;
   }
   #lr4 .subtitle-row {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -349,13 +349,13 @@ body {
 
 @media (max-width: 550px) {
   #lr5 .title-row {
-    font-size: 24px;
+    font-size: 1.7em;
   }
   #lr5 .line-row {
-    font-size: 20px;
+    font-size: 1.5em;
   }
   #lr5 .subtitle-row {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
