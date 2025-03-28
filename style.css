@@ -189,16 +189,15 @@ body {
 .title-row {
   font-size: 30px;
   font-weight: 500;
-  padding-bottom: 10px;
 }
 .line-row {
 	font-size: 32px;
 	font-weight: 300;
-	padding-bottom: 24px;
+	padding-bottom: 15px;
 }
 .subtitle-row {
   font-size: 23px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 #lr1 a {
   color: #BC5F41;
